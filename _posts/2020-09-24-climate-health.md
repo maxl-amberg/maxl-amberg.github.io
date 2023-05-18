@@ -1,9 +1,9 @@
 ---
-title: 'Climate & Health Literature'
-date: 2020-09-24
-permalink: https://apsis.mcc-berlin.net/climate-health/
-link: https://apsis.mcc-berlin.net/climate-health/
+title: 'MCC CO₂-Preis-Rechner'
+date: 2021-07-21
+permalink: http://www.mcc-berlin.net/co2preisrechner
+link: http://www.mcc-berlin.net/co2preisrechner
 category: Interactive sites
 ---
 
-I produced an interactive website using [Dash](https://dash.plotly.com/) to display the results of a [computer-assisted systematic map](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(21)00179-0/fulltext) of the literature on climate change and health. The source code is on [Github](https://github.com/mcc-apsis/climate-health-app).
+The CO₂-price calculator was developed by a team led by Prof. Dr. Matthias Kalkuhl, Dr. Christina Roolfs, Tobias Bergmann, Dr. Maximilian Kellner and me. I produced the corresponding interactive CO₂-price incidence web tool using [shiny](https://github.com/rstudio/shiny) and [golem](https://github.com/ThinkR-open/golem).
