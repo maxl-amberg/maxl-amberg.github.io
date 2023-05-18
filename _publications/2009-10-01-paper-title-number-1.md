@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Ausschreibungen im EEG – eine Auswertung der bisherigen Erfahrungen"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publications1
+date: 2018-04-01
+venue: 'Energiewirtschaftliche Tagesfragen'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://www.ufz.de/index.php?de=20939&pub_id=20779)'
+citation: "Gawel, E., <b>Amberg, M.</b> (2018): &quot;Ausschreibungen im EEG – eine Auswertung der bisherigen Erfahrungen.&quot; <i>Energiewirtschaftliche Tagesfragen</i> 68 (7/8), 24-30."
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here]([http://academicpages.github.io/files/paper1.pdf](https://www.ufz.de/index.php?de=20939&pub_id=20779)
