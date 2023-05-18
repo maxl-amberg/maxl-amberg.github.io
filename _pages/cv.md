@@ -11,15 +11,19 @@ redirect_from:
 
 Education
 ======
-* Since January 2023: **Ph.D Candidate in Economics**, University of Potsdam and Mercator Research Institute on Global Commons and Climate Change
-* February 2022: **M.S. in Economics**, University of Mannheim
-* July 2019: **B.S. in Economics**, Heidelberg University
-  * September 2017--December 2017: **Erasmus Semester**, Sciences Po Paris
+* 2023--present: **Ph.D Candidate in Economics**
+  * University of Potsdam and Mercator Research Institute on Global Commons and Climate Change
+* 2022: **M.S. in Economics**
+  * University of Mannheim
+* 2017: **Erasmus Semester**
+  * Sciences Po, Paris
+* 2019: **B.S. in Economics**
+  * Heidelberg University
 
 Work experience
 ======
 
-* Since June 2023: **Graduate Research Assistant**
+* June 2023--present: **Graduate Research Assistant**
   * Mercator Research Institute on Global Commons and Climate Change, Berlin
   * Working Group: Sustainable Resource Management and Global Change + Policy Evaluation Lab (Dr. Nicolas Koch)
   * Project: ARIADNE II
@@ -50,15 +54,20 @@ Work experience
 Fellowships and Grants
 ======
 
-* January 2023: **German Academic Scholarship Foundation** (also accepted from **Cusanuswerk**)
+* January 2023--present: **PhD Scholarship**
+  * German Academic Scholarship Foundation (also accepted from the Cusanuswerk)
 
-* March 2022--August2022: **Exposé Scholarship (German Academic Scholarship Foundation & Joachim Herz Foundation)** 
+* March 2022--August2022: **Exposé Scholarship**
+  * German Academic Scholarship Foundation & Joachim Herz Foundation
 
-* May 2019--December 2021: **German Academic Scholarship Foundation**
+* May 2019--December 2021: **BA/MA Scholarship**
+  * German Academic Scholarship Foundation
 
 * August 2017--January 2018: **Erasmus Scholarship**
+  * Erasmus
 
-* September 2015--January 2022: **Cusanuswerk**
+* September 2015--January 2022: **BA/MA Scholarship**
+  * Cusanuswerk
 
 
 Publications
