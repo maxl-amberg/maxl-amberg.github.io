@@ -15,10 +15,9 @@ Education
   * University of Potsdam and Mercator Research Institute on Global Commons and Climate Change
 * 2022: **M.S. in Economics**
   * University of Mannheim
-* 2017: **Erasmus Semester**
-  * Sciences Po, Paris
 * 2019: **B.S. in Economics**
   * Heidelberg University
+  * Sciences Po, Paris (**Erasmus Semester** in 2017)
 
 Work experience
 ======
