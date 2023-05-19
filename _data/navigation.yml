@@ -4,10 +4,10 @@ main:
     url: /publications/
 
   - title: "Other Articles and Reports"
-    url: /reports/
+    url: /year-archive/
     
-  - title: "Web Applications"
-    url: /web-applications/
+#  - title: "Web Applications"
+#    url: /web-applications/
 
   - title: "Talks"
     url: /talks/
