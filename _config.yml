@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Maximilian Amberg"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Maximilian Amberg"
 description              : &description "PhD Candidate at the Mercator Research Institute on Global Commons and Climate Change"
 url                      : https://maxl-amberg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

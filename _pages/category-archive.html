@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /other-content/
-title: "Other Articles and Resources"
+permalink: /categories/
+title: "Posts by Category"
 author_profile: true
 ---
 
@@ -12,7 +12,6 @@ author_profile: true
   {% assign posts = group_items[forloop.index0] %}
   <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
   {% for post in posts %}
-    {% include archive-single-article.html %}
+    {% include archive-single.html %}
   {% endfor %}
-  <hr>
 {% endfor %}
