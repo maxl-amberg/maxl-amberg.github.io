@@ -24,12 +24,12 @@ Work experience
 
 * June 2023--present: **Graduate Research Assistant**
   * Mercator Research Institute on Global Commons and Climate Change, Berlin
-  * Working Group: Sustainable Resource Management and Global Change + Policy Evaluation Lab (Dr. Nicolas Koch)
+  * Working Group: [Sustainable Resource Management and Global Change (Prof. Dr. Sabine Fuss)](https://www.mcc-berlin.net/en/research/working-groups/sustainable-resource-management-and-global-change.html) + [Policy Evaluation Lab (Dr. Nicolas Koch)](https://www.mcc-berlin.net/en/research/policy-evaluation-lab.html)
   * Kopernikus project: [ARIADNE II](https://ariadneprojekt.de/)
   
 * March 2022--May 2023: **Graduate Research Assistant**
   * Mercator Research Institute on Global Commons and Climate Change, Berlin
-  * Working Group: Economic Growth and Human Development (Prof. Dr. Matthias Kalkuhl)
+  * Working Group: [Economic Growth and Human Development (Prof. Dr. Matthias Kalkuhl)](https://www.mcc-berlin.net/en/research/working-groups/economic-growth-and-human-development.html)
   * Kopernikus project: [ARIADNE I](https://ariadneprojekt.de/)
 
 * August 2019--February 2022: **Student Assistant**
@@ -42,12 +42,12 @@ Work experience
 
 * April 2019--July 2019: **Student Assistant**
   * Heidelberg University
-  * Chair of Environmental Economics (Jun.-Prof. Dr. Florian Diekert)
+  * [Chair of Environmental Economics (Jun.-Prof. Dr. Florian Diekert)](https://www.uni-heidelberg.de/fakultaeten/wiso/awi/professuren/ressourcen/diekert.html)
   * ERC-funded project: [NATCOOP](https://www.uni-heidelberg.de/fakultaeten/wiso/awi/professuren/ressourcen/index.html)
 
 * August 2018--March 2019: **Research Internship**
   * Helmholtz Zentrum für Umweltforschung (UFZ), Leipzig 
-  * Department of Economics -- Energy (Prof. Dr. Erik Gawel) 
+  * [Department of Economics -- Energy (Prof. Dr. Erik Gawel)](https://www.ufz.de/index.php?en=34253)
 
 
 Fellowships and Grants
