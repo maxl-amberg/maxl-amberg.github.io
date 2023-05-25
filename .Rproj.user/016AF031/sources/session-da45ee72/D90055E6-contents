@@ -1,10 +1,11 @@
 # main links links
 main:
+
+  - title: "Reports and Working Papers"
+    url: /other-content/
+    
   - title: "Journal Publications"
     url: /publications/
-
-  - title: "Other Articles"
-    url: /other-content/
 
   - title: "Talks"
     url: /talks/
