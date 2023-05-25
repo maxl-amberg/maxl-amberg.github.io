@@ -11,84 +11,63 @@ redirect_from:
 
 Education
 ======
-* Since 2023: **Ph.D Candidate in Economics**
-  * University of Potsdam + Mercator Research Institute on Global Commons and Climate Change
-* 2022: **M.S. in Economics**
-  * University of Mannheim
-* 2019: **B.S. in Economics**
-  * Heidelberg University
-  * Sciences Po, Paris (**Erasmus Semester** in 2017)
+* B.A. in English Literature, University of York, 2011
+* MPP in Public Policy, Hertie Schoool of Governance, 2016
+* Ph.D in Earth and Environmental Science, University of Leeds, 2022
 
 Work experience
 ======
+* 2021--present: Postdoctoral Researcher
+  * Mercator Research Institute on Global Commons and Climate Change (MCC), Berlin
 
-* June 2023--present: **Graduate Research Assistant**
-  * Mercator Research Institute on Global Commons and Climate Change, Berlin
-  * Working Group: [Sustainable Resource Management and Global Change (Prof. Dr. Sabine Fuss)](https://www.mcc-berlin.net/en/research/working-groups/sustainable-resource-management-and-global-change.html) + [Policy Evaluation Lab (Dr. Nicolas Koch)](https://www.mcc-berlin.net/en/research/policy-evaluation-lab.html)
-  * Kopernikus project: [ARIADNE II](https://ariadneprojekt.de/)
-  
-* March 2022--May 2023: **Graduate Research Assistant**
-  * Mercator Research Institute on Global Commons and Climate Change, Berlin
-  * Working Group: [Economic Growth and Human Development (Prof. Dr. Matthias Kalkuhl)](https://www.mcc-berlin.net/en/research/working-groups/economic-growth-and-human-development.html)
-  * Kopernikus project: [ARIADNE I](https://ariadneprojekt.de/)
+* 2015--2016: Research Assistant
+  * Mercator Research Institute on Global Commons and Climate Change (MCC), Berlin
 
-* August 2019--February 2022: **Student Assistant**
-  * Mercator Research Institute on Global Commons and Climate Change, Berlin
-  * Working Group: [Economic Growth and Human Development (Prof. Dr. Matthias Kalkuhl)](https://www.mcc-berlin.net/en/research/working-groups/economic-growth-and-human-development.html)
-  
-* April 2019--July 2019: **Research Internship**
-  * Mercator Research Institute on Global Commons and Climate Change, Berlin
-  * Working Group: [Economic Growth and Human Development (Prof. Dr. Matthias Kalkuhl)](https://www.mcc-berlin.net/en/research/working-groups/economic-growth-and-human-development.html)
+* 2014--2014: Research Assistant - The Governance Report
+  * Hertie School of Governance, Berlin
 
-* April 2019--July 2019: **Student Assistant**
-  * Heidelberg University
-  * [Chair of Environmental Economics (Jun.-Prof. Dr. Florian Diekert)](https://www.uni-heidelberg.de/fakultaeten/wiso/awi/professuren/ressourcen/diekert.html)
-  * ERC-funded project: [NATCOOP](https://www.uni-heidelberg.de/fakultaeten/wiso/awi/professuren/ressourcen/index.html)
+* 2014--2015: Junior Research Fellow - Development, Gender and Human Rights
+  * United Nations System Staff College, Turin
 
-* August 2018--March 2019: **Research Internship**
-  * Helmholtz Zentrum für Umweltforschung (UFZ), Leipzig 
-  * [Department of Economics -- Energy (Prof. Dr. Erik Gawel)](https://www.ufz.de/index.php?en=34253)
+* 2013--2013: Junior Consultant
+  * Cadence Partnership, London
+  * Contracted to the Department of the Environment, Food, and Rural Affairs
+
+* 2011--2012: Communications Inter
+  * Release, London
+
+* 2011--2012: Teacher
+  * The English School of Mongolia, Ulaanbaator
 
 
-Fellowships and Grants
+<!-- Skills
 ======
-
-* January 2023--present: **PhD Scholarship**
-  * German Academic Scholarship Foundation (also accepted from the Cusanuswerk)
-
-* March 2022--August2022: **Exposé Scholarship**
-  * German Academic Scholarship Foundation & Joachim Herz Foundation
-
-* May 2019--December 2021: **BA/MA Scholarship**
-  * German Academic Scholarship Foundation
-
-* August 2017--January 2018: **Erasmus Scholarship**
-  * Erasmus
-
-* September 2015--January 2022: **BA/MA Scholarship**
-  * Cusanuswerk
-
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3 -->
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ol>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
 
-
-Computational Skills
+Talks
 ======
+  <ol>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ol>
 
-* **Programming**
-  * R, Stata (advanced)
-  * Python, MATLAB (intermediate)
-  * GAMS, Java (basics)
+Teaching
+======
+  <ol>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ol>
 
-* **Geographic information**
-  * QGIS/ArcGIS (intermediate)
-
-* **Version control**
-  * GitHub/GitLab (daily business)
-
-* **Text processing**
-  * LaTex/Overleaf, Word, Excel, PowerPoint (daily business)
+Service
+======
+* I have provided reviews for *Nature Climate Change*, *Nature Sustainability*, *Energy Research & Social Science*, *Environmental Research Letters*, *Climatic Change*, *Regional Environmental Change*, *Research Synthesis Methods*, *The Journal of Hydrology*, and the *Journal of the American Medical Informatic Association*.
+* I was a contributing author in [Chapter 9](https://www.ipcc.ch/report/ar6/wg2/downloads/report/IPCC_AR6_WGII_Chapter09.pdf) of Working Group II's contribution to the sixth assessment report of the Intergovernmental Panel on Climate Change.
