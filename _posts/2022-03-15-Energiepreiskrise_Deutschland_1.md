@@ -1,5 +1,5 @@
 ---
-title: 'Reformoptionen für ein nachhaltiges Steuer- und Abgabensystem'
+title: 'Auswirkungen der Energiepreiskrise auf Haushalte in Deutschland'
 date: 2022-03-15
 permalink: https://www.mcc-berlin.net/fileadmin/data/C18_MCC_Publications/2022_MCC_Auswirkungen_der_Energiepreiskrise_auf_Haushalte.pdf
 link: https://www.mcc-berlin.net/fileadmin/data/C18_MCC_Publications/2022_MCC_Auswirkungen_der_Energiepreiskrise_auf_Haushalte.pdf
