@@ -1,6 +1,6 @@
 ---
 title: 'Documentation of the CO₂-price incidence webtool «MCC CO₂-Preis-Rechner»'
-date: 2021-07-01
+date: 2021-07-21
 permalink: http://doi.org/10.5281/zenodo.5094561
 link: http://doi.org/10.5281/zenodo.5094561
 category: Reports and Working Papers

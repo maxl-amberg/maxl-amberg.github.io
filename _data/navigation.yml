@@ -13,8 +13,8 @@ main:
   # - title: "Teaching"
   #   url: /teaching/
 
-  # - title: "Media"
-  #   url: /media/
+  - title: "Media"
+    url: /media/
 
   - title: "CV"
     url: /cv/
