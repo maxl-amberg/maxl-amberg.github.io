@@ -86,7 +86,7 @@ author:
   location         : "Torgauer Str. 12-15, 10829 Berlin"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=beLBjOYAAAAJ&hl=en"
   email            : "amberg@mcc-berlin.net"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
