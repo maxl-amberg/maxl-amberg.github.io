@@ -40,12 +40,12 @@ Work experience
   * Mercator Research Institute on Global Commons and Climate Change, Berlin
   * Working Group: [Economic Growth and Human Development (Prof. Dr. Matthias Kalkuhl)](https://www.mcc-berlin.net/en/research/working-groups/economic-growth-and-human-development.html)
 
-* April 2019--July 2019: **Student Assistant**
+* August 2018--March 2019: **Student Assistant**
   * Heidelberg University
   * [Chair of Environmental Economics (Jun.-Prof. Dr. Florian Diekert)](https://www.uni-heidelberg.de/fakultaeten/wiso/awi/professuren/ressourcen/diekert.html)
   * ERC-funded project: [NATCOOP](https://www.uni-heidelberg.de/fakultaeten/wiso/awi/professuren/ressourcen/index.html)
 
-* August 2018--March 2019: **Research Internship**
+* January 2018--April 2018: **Research Internship**
   * Helmholtz Zentrum für Umweltforschung (UFZ), Leipzig 
   * [Department of Economics -- Energy (Prof. Dr. Erik Gawel)](https://www.ufz.de/index.php?en=34253)
 
@@ -80,8 +80,8 @@ Computational Skills
 ======
 
 * **Programming**
-  * R, Stata (advanced)
-  * Python, MATLAB (intermediate)
+  * R (advanced)
+  * Python, MATLAB, Stata (intermediate)
   * GAMS, Java (basics)
 
 * **Geographic information**
