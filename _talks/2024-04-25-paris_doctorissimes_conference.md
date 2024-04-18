@@ -6,5 +6,5 @@ permalink: https://sites.google.com/site/doctorissimes3/19th-doctorissimes-2024
 link: https://sites.google.com/site/doctorissimes3/19th-doctorissimes-2024
 venue: "the Paris School of Economics (PSE)"
 date: 2024-04-25
-location: "Paris"
+location: "Paris, France"
 ---

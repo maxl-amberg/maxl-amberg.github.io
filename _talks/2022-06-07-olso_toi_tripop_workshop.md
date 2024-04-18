@@ -4,5 +4,5 @@ collection: talks
 type: "Presentation at the Transport, Inequality, and Political Opposition (TRIPOP) workshop"
 venue: "the Institute of Transport Economics (Transportøkonomisk institutt, TØI)"
 date: 2022-06-06
-location: "Oslo"
+location: "Oslo, Norway"
 ---
