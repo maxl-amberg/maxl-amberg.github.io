@@ -5,6 +5,6 @@ type: "Presentation at the EAERE Summer School 2024 on 'Data Science in Environm
 permalink: https://eaere-summer-school.uni-graz.at/en/summer-school-2024/
 link: https://eaere-summer-school.uni-graz.at/en/summer-school-2024/
 venue: "the University of Graz (Castle Seggau)"
-date: 2024-04-25
+date: 2024-06-22
 location: "Leibnitz, Austria"
 ---
