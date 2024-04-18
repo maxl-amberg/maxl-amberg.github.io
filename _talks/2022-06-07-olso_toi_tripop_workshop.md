@@ -4,5 +4,5 @@ collection: talks
 type: "Presentation on 'The Equity Impacts of Vehicle Bans: An Analysis of the Norwegian New Car Market'"
 venue: "the Institute of Transport Economics (Transportøkonomisk institutt, TØI)"
 date: 2022-06-06
-location: "in Oslo, Norway"
+location: "Oslo, Norway"
 ---

@@ -6,5 +6,5 @@ permalink: https://www.zew.de/en/events-and-professional-training/detail/12th-ma
 link: https://www.zew.de/en/events-and-professional-training/detail/12th-mannheim-conference-on-energy-and-the-environment/4291?cHash=a1aff949e437b8febacdf45385c1a705
 venue: "the Leibniz Center for Eoropean Economic Research (ZEW)"
 date: 2024-05-13
-location: "in Mannheim, Germany"
+location: "Mannheim, Germany"
 ---

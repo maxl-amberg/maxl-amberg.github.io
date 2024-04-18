@@ -6,5 +6,5 @@ permalink: http://www.eaere-conferences.org/
 link: http://www.eaere-conferences.org/
 venue: "Katholieke Universiteit (KU) Leuven"
 date: 2024-07-01
-location: "in Leuven, Belgium"
+location: "Leuven, Belgium"
 ---

@@ -6,5 +6,5 @@ permalink: https://eaere-summer-school.uni-graz.at/en/summer-school-2024/
 link: https://eaere-summer-school.uni-graz.at/en/summer-school-2024/
 venue: "Castle Seggau"
 date: 2024-06-22
-location: "in Leibnitz, Austria (organized by the University of Graz)"
+location: "Leibnitz, Austria (organized by the University of Graz)"
 ---

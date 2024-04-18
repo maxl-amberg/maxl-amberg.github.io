@@ -6,5 +6,5 @@ permalink: https://sured.unibas.ch/en/
 link: https://sured.unibas.ch/en/
 venue: "the Monte Verità Seminar Centre"
 date: 2024-06-02
-location: "in Locarno-Ascona, Switzerland (organized by the University of Basel)"
+location: "Locarno-Ascona, Switzerland (organized by the University of Basel)"
 ---
