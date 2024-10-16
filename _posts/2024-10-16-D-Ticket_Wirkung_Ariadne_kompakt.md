@@ -7,4 +7,4 @@ category: Reports and working papers
 ---
 
 **Recommended citation:**
-Koch, N., Illenseer, N., <b>Amberg, M.</b>, Treichel-Grass, K. (2024). &quot;Ariadne kompakt: Wirkung des Deutschland-Tickets auf Mobilität und Emissionen.&quot; <i>Ariadne kompakt</i>.
+Koch, N., Illenseer, N., <b>Amberg, M.</b>, Treichel-Grass, K. (2024). &quot;Wirkung des Deutschland-Tickets auf Mobilität und Emissionen.&quot; <i>Ariadne kompakt</i>.
