@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Maximilian Amberg"
 title_separator          : "-"
 name                     : &name "Maximilian Amberg"
-description              : &description "PhD Candidate at the Potsdam Institute on Climate Impact Research (PIK) - RD5 (MCC Berlin)"
+description              : &description "PhD Candidate at the Potsdam Institute on Climate Impact Research (PIK)"
 url                      : https://maxl-amberg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maxl-amberg/maxl-amberg.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Maximilian Amberg"
   avatar           : "bio_photo_at_MCC.jpg"
-  bio              : "PhD Candidate at the Mercator Research Institute on Global Commons and Climate Change"
+  bio              : "PhD Candidate at the Potsdam Institute on Climate Impact Research (PIK)"
   location         : "Torgauer Str. 12-15, 10829 Berlin"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=beLBjOYAAAAJ&hl=en"
-  email            : "amberg@mcc-berlin.net"
+  email            : "maximilian.amberg@pik-potsdam.de"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
